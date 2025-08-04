@@ -33,7 +33,7 @@ This repository contains two Bash scripts designed to manage user creation and d
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-creation-script.git
+   git clone https://github.com/Mego205/user-creation-script.git
 Navigate to the project directory:
 cd user-creation-script
 Ensure executable permissions:
@@ -54,9 +54,4 @@ Feel free to fork this repository and submit pull requests. Please ensure any ch
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
-For questions or support, please open an issue on GitHub or contact [your email/username].
-### Notes
-- Replace `yourusername` with your actual GitHub username.
-- Add a `LICENSE` file if you plan to include one.
-- Customize the "Contact" section with your details.
-- You can enhance the `README.md` with badges or additional sections as needed.I
+For questions or support, please open an issue on GitHub or contact [abdelmajeed mahmoud/Mego205].
