@@ -54,4 +54,5 @@ Feel free to fork this repository and submit pull requests. Please ensure any ch
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
-For questions or support, please open an issue on GitHub or contact [abdelmajeed mahmoud/Mego205].
+For questions or support, please open an issue on GitHub or contact [abdelmajeedmahmoud834@gmail.com
+/Mego205].
